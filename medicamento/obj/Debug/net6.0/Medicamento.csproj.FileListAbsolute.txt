@@ -1,0 +1,15 @@
+C:\Users\stefa\source\repos\Medicamento\Medicamento\bin\Debug\net6.0\Medicamento.exe
+C:\Users\stefa\source\repos\Medicamento\Medicamento\bin\Debug\net6.0\Medicamento.deps.json
+C:\Users\stefa\source\repos\Medicamento\Medicamento\bin\Debug\net6.0\Medicamento.runtimeconfig.json
+C:\Users\stefa\source\repos\Medicamento\Medicamento\bin\Debug\net6.0\Medicamento.dll
+C:\Users\stefa\source\repos\Medicamento\Medicamento\bin\Debug\net6.0\Medicamento.pdb
+C:\Users\stefa\source\repos\Medicamento\Medicamento\obj\Debug\net6.0\Medicamento.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\Medicamento\Medicamento\obj\Debug\net6.0\Medicamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\source\repos\Medicamento\Medicamento\obj\Debug\net6.0\Medicamento.AssemblyInfoInputs.cache
+C:\Users\stefa\source\repos\Medicamento\Medicamento\obj\Debug\net6.0\Medicamento.AssemblyInfo.cs
+C:\Users\stefa\source\repos\Medicamento\Medicamento\obj\Debug\net6.0\Medicamento.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Medicamento\Medicamento\obj\Debug\net6.0\Medicamento.dll
+C:\Users\stefa\source\repos\Medicamento\Medicamento\obj\Debug\net6.0\refint\Medicamento.dll
+C:\Users\stefa\source\repos\Medicamento\Medicamento\obj\Debug\net6.0\Medicamento.pdb
+C:\Users\stefa\source\repos\Medicamento\Medicamento\obj\Debug\net6.0\Medicamento.genruntimeconfig.cache
+C:\Users\stefa\source\repos\Medicamento\Medicamento\obj\Debug\net6.0\ref\Medicamento.dll
